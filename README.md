@@ -40,14 +40,13 @@ The app enables users to seamlessly browse, filter, submit, and report AI safety
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="screenshots/img1.jpeg" alt="Splash Screen" width="250" />
-  <img src="screenshots/img2.jpeg" alt="Login Screen" width="250" />
-  <img src="screenshots/img3.jpeg" alt="Incident List" width="250" />
+  <img src="screenshots/img1.jpg" alt="Splash Screen" width="250" />
+  <img src="screenshots/img2.jpg" alt="Login Screen" width="250" />
+  <img src="screenshots/img3.jpg" alt="Incident List" width="250" />
 </p>
 <p align="center">
-  <img src="screenshots/img4.jpeg" alt="Incident Filter" width="250" />
-  <img src="screenshots/img5.jpeg" alt="Incident Tracker" width="250" />
-  <img src="screenshots/img6.jpeg" alt="Report Incident" width="250" />
+  <img src="screenshots/img4.jpg" alt="Incident Tracker" width="250" />
+  <img src="screenshots/img5.jpg" alt="Report Incident" width="250" />
 </p>
 
 ---
