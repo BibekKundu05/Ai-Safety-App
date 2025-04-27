@@ -6,12 +6,8 @@
 
 ## 📱 About the App
 
-**AI Safety Incident Tracker** is an intuitive Android app designed to monitor and document incidents related to AI system failures. From biased recommendations to harmful chatbot outputs, this app allows users to:
-
-- View reported AI safety incidents.
-- Filter incidents based on severity.
-- Report new incidents with automatic timestamping.
-- Navigate smoothly between screens with a modern, clean interface.
+AI Safety Incident Tracker is a sleek and user-friendly Android application built using Kotlin, designed for SPARKLEHOOD Assessment.
+The app enables users to seamlessly browse, filter, submit, and report AI safety incidents, with a strong emphasis on smooth navigation, effective state management, and an elegant user interface.
 
 ---
 
