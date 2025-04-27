@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ArrayAdapter
+import android.widget.ImageButton
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.example.aisafetyincidenttracker.databinding.FragmentReportIncidentBinding
@@ -27,8 +28,10 @@ class ReportIncidentFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
         setupSeveritySpinner()
         setupSaveButton()
+        var backbtn=view.findViewById<ImageButton>(R.id.backscreen)
     }
 
     private fun setupSeveritySpinner() {
