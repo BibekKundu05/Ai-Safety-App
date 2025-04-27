@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AI Safety Incident Tracker</string>
+    <string name="title_incident_list">AI Safety Incidents</string>
+    <string name="title_incident_detail">Incident Details</string>
+    <string name="title_report_incident">Report New Incident</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="button_save">Save</string>
+    <string name="error_title_required">Title is required</string>
+    <string name="error_description_required">Description is required</string>
+</resources>
